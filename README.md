@@ -9,4 +9,4 @@ fazer o papel de jogar o conteúdo copiado no computador para uma página web lo
 Já existem várias soluções prontas ~~e bem mais robustas~~ que sincronizam dados entre computador e celular, mas
 foi legal fazer esse projetinho.
 
-**大体そんな感じかな。**
+**まあ、大体そんな感じかな。**
