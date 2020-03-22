@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+html, body {
+  height: 100%;
+  background-color: #f8f4f1;
+  font-family: 'Muli', sans-serif;
+}
+
+.content {
+  margin: 10%;
+}
+
+.connection-status {
+  font-size: 1.5rem;
+  color: #4e2caa;
+  text-align: right;
+  height: 1.5rem;
+  visibility: hidden;
+  transition: opacity 5s;
+}
+
+.main-heading {
+  text-align: center;
+  color: #312d2d;
+  text-transform: uppercase;
+  margin-bottom: 2%;
+  font-size: 3rem;
+}
+
+.clipboard-content p {
+  border-bottom: 0.5px solid #dad4d0;
+}
+
+.clipboard-content p, span {
+  font-size: 2rem;
+  text-align: center;
+}
+
+.clipboard-content p span:first-of-type {
+  color: #6a5acd;
+}
+
+.clipboard-content p span {
+  margin: 0 1%;
+}
